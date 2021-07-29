@@ -1,0 +1,1 @@
+# jqa-gradle-playground
